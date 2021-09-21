@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::order_status_logs"
+msgid "Order status logs"
+msgstr "История изменения статусов заказов"
+
+msgctxt "Addons::description::order_status_logs"
+msgid "Allows you to track status changes in orders"
+msgstr "Позволяет отслеживать изменения статусов в заказах"
+
+msgctxt "Languages::order_status_logs"
+msgid "Order status logs"
+msgstr "История изменения статусов заказов"
+
+msgctxt "Languages::status_from"
+msgid "Status from"
+msgstr "Старый статус"
+
+msgctxt "Languages::status_to"
+msgid "Status to"
+msgstr "Новый статус"

@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::order_status_logs"
+msgid "Order status logs"
+msgstr "Order status logs"
+
+msgctxt "Addons::description::order_status_logs"
+msgid "Allows you to track status changes in orders"
+msgstr "Allows you to track status changes in orders"
+
+msgctxt "Languages::order_status_logs"
+msgid "Order status logs"
+msgstr "Order status logs"
+
+msgctxt "Languages::status_from"
+msgid "Status from"
+msgstr "Status from"
+
+msgctxt "Languages::status_to"
+msgid "Status to"
+msgstr "Status to"
